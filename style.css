@@ -1,0 +1,15 @@
+.black {
+    background-color: #a5632ac2;
+    height: 100px;
+    border: 1px solid white;
+}
+.white {
+    background-color: #F5F5DC;
+    height: 100px;
+    border: 1px solid white;
+}
+.space {
+    background-color: white;
+    height: 100px;
+    border: 1px solid white;
+}
